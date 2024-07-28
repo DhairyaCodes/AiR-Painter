@@ -1,6 +1,5 @@
 ﻿opencv-python-headless
 numpy
-os
 mediapipe
 time
 streamlit
